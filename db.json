@@ -1,0 +1,30 @@
+[
+	{
+        "id" : "1",
+		"title": "coconut juice",
+		"description": "juice is a good source of several B vitamins. These vitamins have some health benefits,",
+		"Price": "$6,938",
+		"Image": "/coconut juice.jpeg"
+	},
+	{
+        "id" : "2",
+		"title": "mango juice",
+		"description": "Vitamin C in orange juice may help a person reduce their riskTrusted Source of developing several health problems",
+		"Price": "$7,334",
+		"Image": "/mango juice.jpeg"
+	},
+	{
+        "id" : "3",
+		"title": "cabbage juice",
+		"description": "juice is a good source of vitamin B12",
+		"Price": "$6,647",
+		"Image": "/cabbage juice.jpeg"
+	},
+	{
+        "id" : "4",
+		"title": "orange juice",
+		"description": "juice is a good source of several B vitamins. These vitamins have some health benefits,",
+		"Price": "$5,960",
+		"Image": "/orange juice.jpeg"
+	}
+]
